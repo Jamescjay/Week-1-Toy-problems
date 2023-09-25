@@ -1,5 +1,8 @@
 # Week-1-Toy-problems
 
+## Description
+-below are the detailed description of my week-1-toy problems i.e student grade, speed detector and net salary Calculator programs;
+
 ## student Grade
 
 ## Challenge Goals
@@ -152,6 +155,22 @@ const grossSalary = basicSalary + benefits;
 In this challenge I wrote all the programs that I was required to.
 I ensure all my programs are running and are solving the questions that were asked
 
+## Setup Instructions
+To get started with this Challenge, follow the steps below;
+
+1. Clone the Repository; git clone git@github.com:Jamescjay/Week-1-Toy-problems.git
+2. Navigate into the challenge directory; cd Week-1-Toy-problems/
+3. Open the challenge in VScode; code .
+4. work on your challenge;
+5. Make code changes; git add .
+6. add message; git commit -m " "
+7. Set upstream origin main; git push
+
+## Author and License
+-James Ekasiba
+-Email: james.ekasiba@student.moringaschool.com
+
+
 ## Resources
 I used the website for KRA to obtain the values for calculating the net salary.
-Here is the link to the website that I used:  https://www.aren.co.ke/payroll/taxrates.htm
+Here is the link to the website that I used:  https://www.aren.co.ke/payroll/taxrates.
